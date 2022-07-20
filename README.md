@@ -1,7 +1,7 @@
 ### Hi WonBeom Git Hub 👋
 <span style='background-color:#dcffe4'>URL<span/>
 ==================================================
-<a href="[https://velog.io/@wonbeom2669]" target="_blank"><img src="https://img.shields.io/badge/[velog]-[009900]?style=flat-square&logo=[20C997]&logoColor=white"/></a>
+<a href="https://velog.io/@wonbeom2669" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 
 ![wonbeom12's github stats](https://github-readme-stats.vercel.app/api?username=wonbeom12&show_icons=true)
