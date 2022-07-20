@@ -3,12 +3,14 @@
 ==================================================
 <a href="[https://velog.io/@wonbeom2669]" target="_blank"><img src="https://img.shields.io/badge/[velog]-[009900]?style=flat-square&logo=[20C997]&logoColor=white"/></a>
 
-<!--
-**wonbeom12/wonbeom12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 ![wonbeom12's github stats](https://github-readme-stats.vercel.app/api?username=wonbeom12&show_icons=true)
 [![wonbeom12's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wonbeom12&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wonbeom12)
+
+
+<!--
+**wonbeom12/wonbeom12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
