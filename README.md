@@ -1,6 +1,6 @@
 ### Hi WonBeom Git Hub 👋
-age : 26
-University : Korea National Open University (Computer Science) first year
+age : 26  
+University : Korea National Open University (Computer Science) first year  
 
 
 
