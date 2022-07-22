@@ -1,4 +1,11 @@
 ### Hi WonBeom Git Hub 👋
+age : 26
+University : Korea National Open University (Computer Science) first year
+
+
+
+
+
 <span style='background-color:#dcffe4'>URL<span/>
 ==================================================
 <a href="https://velog.io/@wonbeom2669" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
