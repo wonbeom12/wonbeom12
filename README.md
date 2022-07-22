@@ -1,4 +1,5 @@
 ### Hi WonBeom Git Hub 👋
+C++, C#, Python
 age : 26  
 University : Korea National Open University (Computer Science) first year  
 
