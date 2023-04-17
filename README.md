@@ -3,6 +3,8 @@ C++, C#, Python (잘한다고한 적은 없음..)
 age : 26  
 University : Korea National Open University (Computer Science) first year  
 
+깃허브 안함
+
 
 
 
